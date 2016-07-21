@@ -1,0 +1,22 @@
+main.css
+
+h1 {
+	font-size: 20px;
+	font-family: Arial;
+	font-weight: 500;
+	color: #ff0026;
+
+	/* El código del color no me da pero buscaré la forma de que compile.*/
+	/*Puse el color como propiedad style en h1*/
+}
+h2 {
+	color: #000000;
+	font-size: 16px;
+}
+img {
+	border: 1px solid blue;
+}
+p {
+	color: #ffcc00; 
+	font-size: 14px;
+}
